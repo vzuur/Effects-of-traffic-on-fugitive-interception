@@ -1,0 +1,327 @@
+﻿Naam,Locatie (straat),Locatie (GPS Latitude),Locatie (GPS Longtitude),Tijdigheid camera,Geplaatst op,Wordt verwijderd op,Eigenaar camera,Afdeling,Doel van de camera,Omschrijving
+UTR-SB-144,BFA Amelisweerd                                 ,52.06489,5.1698543,Vast,,,Gemeente Utrecht,BOR,Operantioneel beheer van goederen,Beweegbare Fysieke afsluiting
+UTR-SB-143,BFA Mariaplaats                                   ,52.09009,5.1174727,Vast,,,Gemeente Utrecht,BOR,Operantioneel beheer van goederen,Beweegbare Fysieke afsluiting
+UTR-SB-142,BFA Hellingbaan -Stationsplein            ,52.89228,5.1124322,Vast,,,Gemeente Utrecht,BOR,Operantioneel beheer van goederen,Beweegbare Fysieke afsluiting
+UTR-SB-141,BFA Vredenburg                                   ,52.09276,5.114827,Vast,,,Gemeente Utrecht,BOR,Operantioneel beheer van goederen,Beweegbare Fysieke afsluiting
+UTR-SB-145,"Camera 101, Linker buis SBN-MBN-0.04-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-146,"Camera 102, Linker buis SBN-BBR-0.09-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-147,"Camera 103, Linker buis SBT-GWL-1.12-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-148,"Camera 104, Linker buis SBT-GWL-1.13-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-149,"Camera 105, Linker buis SBT-GWL-1.14-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-150,"Camera 106, Linker buis SBT-GWL-1.16-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-151,"Camera 107, Linker buis SBT-GWL-1.17-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-152,"Camera 108, Linker buis SBT-GWL-1.18-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-153,"Camera 109, Linker buis SBT-GWL-1.19-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-154,"Camera 110, Linker buis SBT-GWL-1.21-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-155,"Camera 111, Linker buis SBT-GWL-1.21-CAM-002",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-156,"Camera 112, Linker buis SBZ-MBZ-0.23-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-157,"Camera 113, Linker buis SBZ-MBZ-0.24-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-158,"Camera 114, Linker buis SBZ-MBZ-0.24-CAM-002",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-178,"Camera 300, Vluchtgang SBT-VGN-1.00-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-179,"Camera 301, Vluchtgang SBT-VGN-0.01-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-180,"Camera 302, Vluchtgang SBT-VGN-0.01-CAM-002",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-181,"Camera 303, Vluchtgang SBT-VGN-0.01-CAM-003",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-182,"Camera 304, Vluchtgang SBT-MTK-0.14-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-183,"Camera 305, Vluchtgang SBT-MTK-0.15-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-184,"Camera 306, Vluchtgang SBT-MTK-0.16-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-185,"Camera 307, Vluchtgang SBT-MTK-0.16-CAM-002",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-186,"Camera 308, Vluchtgang SBT-MTK-0.18-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-187,"Camera 310, Vluchtgang SBT-MTK-0.19-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-188,"Camera 309, Vluchtgang SBT-MTK-0.19-CAM-002",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-189,"Camera 311, Vluchtgang SBT-MTK-0.20-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-190,"Camera 312, Vluchtgang SBT-MTK-0.21-CAM-001",52.10071,5.06500,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-159,"Camera 201, Rechter buis SBN-BBR-0.01-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-160,"Camera 202, Rechter buis SBN-BBR-0.01-CAM-002",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-161,"Camera 204, Rechter buis SBN-BBR-0.08-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-162,"Camera 205, Rechter buis SBN-MBN-0.10-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-163,"Camera 206, Rechter buis SBN-MBN-0.10-CAM-002",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-164,"Camera 207, Rechter buis SBT-GWR-1.12-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-165,"Camera 208, Rechter buis SBT-GWR-1.13-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-166,"Camera 209, Rechter buis SBT-GWR-1.14-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-167,"Camera 210, Rechter buis SBT-GWR-1.14-CAM-002",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-168,"Camera 211, Rechter buis SBT-GWR-1.16-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-169,"Camera 212, Rechter buis SBT-GWR-1.16-CAM-002",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-170,"Camera 213, Rechter buis SBT-GWR-1.16-CAM-003",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-171,"Camera 214, Rechter buis SBT-GWR-1.17-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-172,"Camera 215, Rechter buis SBT-GWR-1.17-CAM-002",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-173,"Camera 216, Rechter buis SBT-GWR-1.18-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-174,"Camera 217, Rechter buis SBT-GWR-1.20-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-175,"Camera 218, Rechter buis SBT-GWR-1.21-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-176,"Camera 219, Rechter buis SBT-GWR-1.22-CAM-001",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-177,"Camera 220, Rechter buis SBZ-MBZ-0.23-CAM-002",52.10068,5.06485,Vast,,,Gemeente Utrecht,BOR,tunnelbeheer stadsbaantunnel,GPS is ingeschat mbv google maps vanuit noordingang (vanuit Amsterdam)
+UTR-SB-192,Universiteitsweg,52.09186,5.17875,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid : P + R Utrecht Science Park
+UTR-SB-193,Kruisstraat 2,52.09399,5.12903,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid : Garage Kruisstraat
+UTR-OOR-016,"Korte Nieuwstraat (hoek Wed, Richting Domplein)",52.08994,5.12192,Vast,01/05/2020,,Gemeente Utrecht,OOR,Handhaving geslotenverklaring Domplein,ANPR camera
+UTR-OOR-015,Domplein (richting Voetiusstraat),52.09111,5.12151,Vast,01/05/2020,,Gemeente Utrecht,OOR,Handhaving geslotenverklaring Domplein,ANPR camera
+UTR-SB-191,Berlijnplein 100,52.09675,5.07010,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid : P + R Berlijnplein
+UTR-PAR-941,Daltonlaan Daltonlaan,52.08793,5.159549,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-942,Archimedeslaan Daltonlaan,52.08721,5.158573,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-103,Weg naar Rhijnauwen 3,52.08241,5.15721,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Zwembad Kromme Rijn
+UTR-PAR-943,Archimedeslaan Pisuisselaan,52.08802,5.15692,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-762,ASW thv 421 / Marnixlaan,52.18074,5.15659,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-PAR-950,Archimedeslaan Oostbroekselaan,52.09681,5.15388,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-944,Archimedeslaan Pythagoraslaan,52.09244,5.152528,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-947,Euclidelaan Varrolaan,52.09115,5.152057,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-949,Archimedeslaan Galileilaan,52.09411,5.151713,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-948,Pythagoraslaan Varrolaan,52.09229,5.151112,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-946,Euclidelaan Boylelaan,52.08991,5.149138,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-945,Archimedeslaan Boylelaan,52.09150,5.147995,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-111,Herculesplein 341,52.07787,5.14473,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Binnensport: Galgenwaard
+UTR-CM-801,Herculeslaan / Herculesplein,52.07942,5.14366,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,Specifiek bij voetbalwedstrijden FC Utrecht
+UTR-CM-802,Stadionlaan,52.07950,5.14238,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,Specifiek bij voetbalwedstrijden FC Utrecht
+UTR-CM-803,Waterlinieweg,52.07746,5.1412,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,Specifiek bij voetbalwedstrijden FC Utrecht
+UTR-VTH-211,Nachtegaalstraat 73-75,52.09136,5.13216,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-VTH-223,Zonstraat 1,52.08542,5.13051,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-VTH-208,Maliesingel 28,52.08952,5.13006,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-VTH-209,Maliesingel / Maliebaan 1,52.08865,5.12982,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-CM-579,Lepelenburg,52.08927,5.12866,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-OOR-012,Noordelijke afrit Goyplein,52.06790,5.128127,Vast,01/07/2017,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-CM-582,Lepelenburg thv toiletgebouw,52.08989,5.12806,Tijdelijk,10/Oct/23,10/Apr/23,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-218,Tolsteegsingel 2,52.08403,5.12801,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-VTH-238,Brigittenstraat,52.08905,5.127623,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-VTH-236,Hieronymusplantsoen,52.09002,5.127493,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-VTH-222,Wittevrouwensingel 83,52.09777,5.12736,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-VTH-239,Nieuwegracht,52.08581,5.127306,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-CM-576,Lucasbolwerk,52.09303,5.12646,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-201,Abstederdijk 14,52.08080,5.12645,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-CM-575,Lucasbolwerk / Nobel,52.09296,5.12644,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-SB-120,Wittevrouwensingel 96,52.09809,5.12611,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: Garage Grifthoek
+UTR-VTH-221,Wittevrouwenbrug,52.09504,5.12603,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-CM-574,Lucasbolwerk / Wittevrouwenstraat,52.09493,5.12593,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-SB-118,Van Swindenstraat,52.10194,5.12479,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Locaties Oude Stadswerken: Van Swindenstraat
+UTR-OOR-006,Ledig Erf - Tolsteegbrug,52.08136,5.124311,Vast,01/07/2020,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-VTH-233,Plompetorengracht,52.09511,5.123509,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-VTH-240,Vrouwjuttenstraat,52.08527,5.123489,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-VTH-230,Twijnstraat,52.08316,5.123447,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-SB-121,Baden Powelweg 103,52.07798,5.12327,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: Vaartse Rijn
+UTR-VTH-232,Van Asch van Wijckskade,52.09682,5.123239,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-VTH-231,Oudegracht,52.08167,5.123173,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-CM-542,Janskerkhof / Drift / Nobelstraat,52.09322,5.12317,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-234,Janskerkhof,52.09370,5.122894,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-VTH-235,Voetiusstraat,52.09126,5.122539,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-CM-545,Oudkerkhof / Korte Jansstraat,52.09207,5.12227,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-543,Janskerkhof / Boothstraat,52.09382,5.12207,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-237,Trans,52.08973,5.122019,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-SB-136,Vondellaan,52.07803,5.12195,Vast,,,Gemeente Utrecht,BOR,Veilig gebruik brug,Bruggen: Vondelbrug
+UTR-CM-538,Wijde Begijnestraat / Breedstraat,52.09552,5.12133,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-547,Voorstraat / Jansveld,52.09518,5.12099,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-544,Janskerkhof (plein),52.09381,5.12091,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-213,Noorderbrug / Noorderstraat,52.09738,5.12086,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-OOR-010,Goylaan - Oud Wulvenplantsoen,52.06598,5.120839,Vast,01/07/2017,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-VTH-242,Lange Smeestraat,52.08586,5.120577,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-VTH-243,Springweg,52.08585,5.120563,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-CM-541,Lange Jansstraat / Janskerkhof,52.09346,5.12043,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-549,Choorstraat / Lijnmarkt / Zadelstraat,52.09033,5.12011,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-510,Korte Minrebroederstraat,52.09210,5.11994,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-244,Oudkerkhof,52.09153,5.119939,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-VTH-224,Oudkerkhof,52.09153,5.11993,Vast,,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-OOR-011,Goylaan - Hoofd Graaflandstraat,52.06605,5.119916,Vast,01/07/2021,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-CM-511,Stadhuisbrug / Oudkerkhof / Vismarkt,52.09142,5.11985,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-241,Schoutenstraat,52.09230,5.11966,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-CM-537,Breedstraat / Hardebollenstraat,52.09508,5.11933,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-SB-131,Korte Minrebroederstraat 2,52.09188,5.11929,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: Stadhuis
+UTR-SB-137,Jutphaseweg,52.07313,5.11927,Vast,,,Gemeente Utrecht,BOR,Veilig gebruik brug,Bruggen: Oranjebrug
+UTR-CM-504,Neude / Schoutenstraat,52.09309,5.11924,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-509,Ganzenmarkt / Stadhuisbrug / Oudegracht,52.09186,5.11894,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-505,Neude / Drakenburgstr / Vinkenburgstr,52.09282,5.11877,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-SB-109,Schooneggendreef 27,52.12059,5.11876,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Binnensport: Dreef
+UTR-CM-503,Neude plein,52.09346,5.11861,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-501,Loeff Berchmakerstraat,52.09372,5.11853,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-SB-132,Mariaplaats 2,52.08990,5.1184,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: Zadelstraat
+UTR-CM-540,Breedstraat / Predikherenkerkhof,52.09513,5.11816,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-245,Mariaplaats,52.08963,5.117894,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-CM-521,Mariaplaats / Zadelstraat / Springweg,52.08949,5.11775,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-506,Vinkenburgstraat / Neude,52.09237,5.1177,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-205,Hopakker / A. v. Wijcksbrug,52.09660,5.11768,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-CM-519,Mariastraat / Mariaplaats,52.09011,5.11742,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-507,Oudegracht / Vinkenburgstraat,52.09182,5.11732,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-229,Drakenburgstraat,52.09275,5.117231,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-CM-548,Oudegracht / Drakenburgstraat,52.09277,5.11714,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-512,Bakkerbrug / richting Vinkenburgstraat,52.09159,5.11713,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-517,Steenweg / Mariastraat,52.09077,5.11712,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-228,Oudegracht,52.09356,5.116904,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-VTH-227,Oudegracht,52.09329,5.116681,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-CM-536,Viebrug zijde Intersport,52.09332,5.11665,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-SB-108,Verlengde Hoogravenseweg 203,52.06793,5.11664,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Binnensport: Hoograven
+UTR-CM-515,Lange Elisabethstr / Bakkerstr / Steenweg,52.09076,5.11661,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-535,Drieharingstraat / Oudegracht,52.09210,5.11651,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-523,Mariaplaats thv tuin,52.08981,5.11619,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-577,Nijntje Pleintje,52.09636,5.11613,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-516,Achter Clarenburg / Voor Clarenburg,52.09079,5.11579,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-226,Nieuwekade,52.09630,5.115606,Vast,08/11/2023,,Gemeente Utrecht,,Handhaving,Weren zwaar verkeer werven gebied
+UTR-SB-138,t Goylaan,52.06690,5.11557,Vast,,,Gemeente Utrecht,BOR,Veilig gebruik brug,Bruggen: Zuiderbrug
+UTR-CM-664,Plein aangrenzend Grebbestraat,52.07611,5.11556,Tijdelijk,10/Oct/23,10/Apr/23,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-665,Mijdrechtstraat/Amaliadwarsstraat,52.07611,5.11556,Tijdelijk,10/Oct/23,10/Apr/23,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-524,Rijnkade / Mariaplaats,52.08960,5.11532,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-555,Moreelsepark thv inktpot,52.08812,5.1151,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-663,Plein Noordzeestraat,52.07611,5.11507,Tijdelijk,10/Oct/23,10/Apr/23,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-534,Vredenburg thv Drieharingstraat,52.09195,5.11504,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-759,ASW thv 218 / Goudsbloemstraat,52.09979,5.11489,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-526,Catharijnesingel / Moreelsepark,52.08925,5.11464,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-556,Laan van Puntenburg / Moreelsepark,52.08647,5.11462,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-533,Vredenburg / St.Jacobsstraat,52.09304,5.11457,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-OOR-001,Vredenburg - St. Jacobstraat,52.09298,5.114277,Vast,01/07/2020,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-OOR-002,Vredenburg - St. Jacobstraat (tijdelijk),52.09298,5.114277,Tijdelijk,01/07/2020,30/04/2022,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-SB-125,Vredenburg 46,52.09277,5.11421,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: Vredenburg
+UTR-CM-554,Catharijnesingel / Spoorstraat,52.09024,5.11411,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-751,Bemuurdeweerd / Adelaarstraat,52.09848,5.11403,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-518,Vredenburgplein / Hollandse Toren,52.09234,5.11401,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-SB-135,Weerdsluis,52.09850,5.11387,Vast,,,Gemeente Utrecht,BOR,Veilig gebruik brug,Bruggen: Stenen brug (Weerdsluis)
+UTR-SB-129,LangeKoestraat 14,52.09348,5.11366,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: Lange koestraat
+UTR-VTH-214,Oudenoord 1,52.09705,5.11318,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-SB-128,Stationsplein 7,52.08905,5.11307,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: Jaarbeursplein
+UTR-CM-527,Stationsplein / Moreelsepark,52.08874,5.11306,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-SB-126,Stationsplein 69,52.08974,5.11249,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: Hoog Catharijne
+UTR-SB-127,Catharijnesingel 28,52.09168,5.11194,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: Laag Catharijne
+UTR-PAR-926,Fietspad Vliegendhertlaan Beneluxlaan,52.06687,5.111703,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-134,David van Mollemstraat,52.10080,5.11161,Vast,,,Gemeente Utrecht,BOR,Veilig gebruik brug,Bruggen: David van Mollembrug
+UTR-CM-532,Catharijnesingel / Smakkelaarsveld,52.08425,5.1115,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-580,Bollendak uitgang CS,52.09092,5.11133,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-783,Voortrekkersdreef,52.12016,5.111323,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-OOR-003,Catharijnesingel - Smakkelaarsveld,52.09301,5.111082,Vast,01/07/2020,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-PAR-921,Winthontlaan,52.05953,5.11097,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-581,Bollendank ingang HC,52.09073,5.11066,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-528,Stationsplein / thv Van Sijpesteijntunnel,52.09211,5.11060,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-203,Croeselaan 235,52.08269,5.11058,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-SB-130,Smakkelaarsveld,52.09249,5.10996,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: Smakkelaarsveld
+UTR-CM-550,Daalsesingel / Knipstraat,52.09423,5.10994,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-PAR-925,Eendrachtlaan/Beneluxlaan,52.06690,5.109775,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-922,Eendrachtlaan Overijssellaan,52.06208,5.109768,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-OOR-005,Amsterdamse straatweg - Daalsesingel,52.09498,5.109468,Vast,01/07/2020,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-OOR-004,Amsterdamsestraatweg - Weerdsingel Westzijde,52.09552,5.109379,Vast,01/07/2020,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-VTH-202,Amsterdamsestraatweg,52.09573,5.1089,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-SB-139,Liesbosch / Noordersluis,52.05501,5.10871,Vast,,,Gemeente Utrecht,BOR,Veilig gebruik brug,Bruggen: Liesboschbrug
+UTR-CM-561,Plateau Mineurslaan,52.08809,5.10863,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-PAR-931,Noordersluis/Liesboschbrug,52.05498,5.108378,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-756,ASW thv 17 / Berkstraat,52.09602,5.10818,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-PAR-924,Vliegend hertlaan/Europalaan,52.06544,5.108102,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-531,Jaarbeursplein,52.08883,5.10794,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-563,Croeselaan / Mineurslaan thv Rabobank,52.08661,5.10781,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-529,Van Sijpesteijntunnel,52.09147,5.10767,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-PAR-927,Overste Den Oudenlaan Kon. Wilhelminalaan,52.07694,5.10759,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-923,Winthontlaan,52.06159,5.107453,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-133,BC Hoogtstraat,52.10643,5.10736,Vast,,,Gemeente Utrecht,BOR,Veilig gebruik brug,Bruggen: Roode Brug
+UTR-PAR-930,Bastion,52.05839,5.107327,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-978,Australiëlaan Europalaan,52.06461,5.107039,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-564,Croeselaan / Mineurslaan thv Beatrixgebou,52.08747,5.10684,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-558,Jaarbeursplein trapopgang,52.08908,5.106838,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-562,Jaarbeursplein thv Beatrixgebouw,52.08823,5.1063,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-559,Jaarbeursplein / Skatebaan,52.08884,5.10628,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-OOR-009,Jaarbeursplein - Mineurslaan,52.08994,5.106147,Vast,01/03/2022,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-CM-530,Van Sijpesteijnkade / Westplein,52.09066,5.10584,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-OOR-007,Westplein - Leidseveertunnel,52.09175,5.105814,Vast,01/03/2022,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-PAR-974,Hollantlaan Europalaan,52.06176,5.105709,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-122,Griffioenlaan 1bis,52.05719,5.10563,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: P+R Westraven
+UTR-CM-757,ASW thv 115 / Tiendstraat,52.09748,5.10561,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-212,Nelson Mandelabrug,52.08216,5.10534,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-CM-566,Croeselaan thv Hojel,52.08871,5.10502,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-568,Kanonstraat / Kanaalstraat,52.09171,5.10486,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-CM-569,Kanonstraat / Vleutenseweg,52.09255,5.10462,Vast,,,Gemeente Utrecht,,Centraal Toezicht Openbaar Vervoer,nvt
+UTR-OOR-008,Westplein - Damstraat,52.09048,5.104581,Vast,01/03/2022,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-PAR-928,Koeriersterlaan,52.06904,5.104403,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-567,Leidseweg / Damstraat,52.09029,5.10425,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-219,Vleutenseweg / Westplein,52.09287,5.10421,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-VTH-220,Westplein / Vleutenseweg,52.09287,5.10421,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-VTH-204,Damstraat / Leidsekade,52.09061,5.10418,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-PAR-977,Vrieslantlaan Zeelantlaan,52.06302,5.103649,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-571,Kanaalstraat / Damstraat,52.09180,5.10358,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-SB-101,Paranadreef 10,52.11543,5.10358,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Zwembad De Kwakel
+UTR-CM-570,Vleutenseweg / Damstraat,52.09279,5.10325,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-661,Timorkade thv Javastraat,52.09009,5.10288,Tijdelijk,10/Oct/23,10/Apr/23,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-758,ASW thv 179 / Anjelierstraat,52.09932,5.10241,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-662,Timorkade thv nr 10,52.09002,5.1022,Tijdelijk,10/Oct/23,10/Apr/23,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-572,Kanaalstraat / Javastraat,52.09149,5.10203,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-PAR-975,Kaap de goede hooplaan,52.06171,5.101847,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-578,Ceramstraat / Riouwstraat,52.09046,5.10133,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-OOR-019,Vleutenseweg,52.09280,5.101306,Tijdelijk,19/06/2023,26/06/2023,Gemeente Utrecht,OOR,Onderzoek verkeersveiligheid,
+UTR-PAR-976,Australiëlaan Columbuslaan,52.06326,5.099787,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-760,ASW thv 284 / Mimosastraat,52.11064,5.09927,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-733,Vasco Da Gamalaan / Marco Pololaan,52.06711,5.0992,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-VTH-216,Sowetobrug / Graadt van Roggenweg,52.08543,5.0983,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-VTH-217,Sowetobrug / Graadt van Roggenweg,52.08543,5.0983,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-SB-105,Grebbeberglaan 13,52.07921,5.09828,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Multifuctionele Accommodaties / Buurtcentra: Nieuw Welgelegen
+UTR-VTH-210,Muntkade / Sowetobrug,52.08566,5.09821,Vast,,,Gemeente Utrecht,,Handhaving,Milieuzone
+UTR-SB-124,Vleutenseweg 44,52.09323,5.09806,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: Garage Kop van Lombok
+UTR-CM-657,Boisotstraat / Van der Marckstraat,52.11184,5.09758,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-658,JS de Rijkstraat / Van der Marckstraat,52.11153,5.09731,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-761,ASW thv 322 / Egelantierstraat,52.10229,5.09718,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-OOR-018,Jan Pieterszoon Coenstraat,52.09320,5.096739,Tijdelijk,19/06/2023,26/06/2023,Gemeente Utrecht,OOR,Onderzoek verkeersveiligheid,
+UTR-PAR-951,Papendorpseweg,52.06304,5.094051,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-963,Floridadreef Nebraskadreef,52.12704,5.093757,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-964,Sint Laurensdreef Franciscusdreef,52.12510,5.092544,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-728,Bernadottelaan / Trumanlaan,52.07476,5.09224,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-SB-107,Trumanlaan 60,52.07651,5.0913,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Multifuctionele Accommodaties / Buurtcentra: Hart van Noord
+UTR-CM-726,Peltlaan / Cruyffcourt,52.07698,5.09064,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-727,Bevinlaan / De Gasperilaan,52.07621,5.09004,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-730,Bernadottelaan / Marshalllaan,52.07411,5.08994,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-PAR-972,Arizonadreef Arkansasdreef,52.12800,5.089858,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-746,Zwanenvechtlaan / Doornburglaan,52.11422,5.08981,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-PAR-953,Papendorpseweg op- afrit A2,52.06396,5.089606,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-747,Dr Max Eeuwestraat / Pr Margrietstraat,52.11429,5.08949,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-PAR-965,Missisippidreef Franciscusdreef,52.12336,5.089116,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-117,Koploperstraat,52.09980,5.0891,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Locaties Oude Stadswerken: Koploperstraat
+UTR-PAR-952,Fietsdijk papendorpseweg op- afrit A2,52.06235,5.089023,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-966,Arizonadreef Sint Laurensdreef,52.12734,5.08888,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-954,Papendorpseweg op- afrit A2,52.06435,5.088822,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-CM-731,Bernadottelaan / Auriollaan,52.07368,5.08876,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-CM-732,Bernadottelaan / Rooseveltlaan,52.07324,5.0879,Vast,,,Gemeente Utrecht,OOV,Openbare Orde & Veiligheid,nvt
+UTR-PAR-961,Groenewoudsedijk,52.06960,5.087472,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-904,Vlampijpstraat/fietspad vlampijpstraat,52.10354,5.087312,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-973,Manitobadreef Floridadreef,52.13117,5.086897,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-929,Bevrijdingslaan Brug,52.07057,5.086891,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-967,Labradordreef Hudsondreef,52.12882,5.086555,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-906,Nijverheidsweg bushalte,52.10044,5.085377,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-102,Kennedylaan 5,52.08097,5.08451,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Zwembad den Hommel
+UTR-PAR-962,Ortelliuslaan Mercatorlaan,52.06509,5.08442,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-969,Manitobaddreef Texasdreef,52.12941,5.084193,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-955,Mercatorlaan Tirionlaan,52.06790,5.083941,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-968,Hudsondreef Missisippidreef,52.12684,5.083528,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-956,Bevrijdingslaan Mercatorlaan,52.06922,5.083272,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-123,Mercatorlaan,52.06960,5.08307,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Bereikbaarheid: P+R Papendorp
+UTR-PAR-902,Vlampijpstraat/Julianaparklaan,52.10594,5.083012,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-903,Tractieweg/Walserijstraat,52.10453,5.082354,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-971,Tennesseedreef Texasdreef,52.13049,5.082026,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-957,Ortelliuslaan Taatsenplein,52.06839,5.081167,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-905,Nijverheidsweg Inrit terrein,52.10300,5.080968,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-970,2e Polderweg Manitobadreef,52.12520,5.079526,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-907,Keulsekade brug,52.10047,5.078368,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-116,Tractieweg 2,52.10705,5.07805,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Locaties Oude Stadswerken: Tractieweg 2
+UTR-PAR-901,Demkaweg/Havenweg,52.11009,5.078003,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-958,Blaeulaan Papendorpseweg,52.06559,5.077861,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-960,Mercatorlaan Busbaan,52.07308,5.077329,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-959,Marinus van Tyruslaan,52.07134,5.076744,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-908,Elektronweg,52.09919,5.07514,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-OOR-013,Wittenvrouwensingel - Nachtegaalstraat,52.05347,5.07404,Vast,01/07/2021,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-PAR-920,Sophialaan,52.11277,5.073712,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-OOR-014,Vondellaan -  Bleekstraat,52.04441,5.07123,Vast,01/05/2022,,Gemeente Utrecht,OOR,Visuele inspectie op afwikkeling verkeer,Live beelden worden beoordeeld om onveilige situatie waar te nemen en na onderzoek acties te kunnen toepassen.
+UTR-PAR-909,Atoomweg/Elektronweg,52.09919,5.069745,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-140,Bedrijventerrein lage Weide,52.10069,5.06926,Vast,,,Gemeente Utrecht,BOR,Veilig gebruik brug,Bruggen: Lage Weide (haven)
+UTR-SB-110,Burg. Norbruislaan 680,52.12272,5.06464,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Binnensport: Zuilen
+UTR-PAR-910,Isotopenweg,52.11865,5.062012,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-113,Maartvlinder 11,52.09220,5.06129,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Binnensport: Sportcampus
+UTR-PAR-935,Strijkviertel (Rijksstraatweg),52.08168,5.059606,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-934,Strijkviertel,52.07707,5.05748,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-917,Lageweideviaduct/Atoomweg,52.11551,5.056466,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-932,Strijkviertel Rijnzathe,52.07141,5.054431,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-936,Molensteyn,52.07922,5.054096,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-914,West kanaaldijk/Niels Bohrweg,52.12559,5.054042,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-918,Lageweideviaduct ingaand verkeer,52.11128,5.053976,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-916,Bariumweg fietspad,52.11103,5.052929,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-937,Naamrijk Veldzigt,52.07643,5.049511,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-940,Langerakbrug (op talud) Hoek Landzigt,52.08038,5.047662,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-913,Niels Bohrweg,52.12101,5.047113,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-938,Naamrijk Landzigt,52.07684,5.046953,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-911,Bariumweg,52.11422,5.046783,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-933,Rijnzathe Landzigt,52.07326,5.044513,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-912,Lageweidseslag,52.11906,5.044018,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-939,Gessel,52.07609,5.043687,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-915,Maarsenbroeksedijk/Meteorenweg,52.12505,5.041895,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-PAR-919,Zonnebaan,52.11955,5.03671,Vast,,,Particulier,,Particuliere camerabewaking,nvt
+UTR-SB-114,Parkzichtlaan 203,52.09347,5.03579,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Binnensport: Paperclip
+UTR-SB-104,Esdoornlaan 5,52.09237,5.02703,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Zwembad Fletiomare
+UTR-SB-112,Europaweg 50a,52.08769,5.02231,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Binnensport: Europahal
+UTR-CM-659,Molenpolder thv Kwalitaria Veldhof,52.08418,5.012512,Tijdelijk,01/Sep/23,01/Mar/23,Gemeente Utrecht,,Openbare Orde & Veiligheid,nvt
+UTR-SB-115,Voor de Burchten 2,52.09434,5.0125,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Binnensport: Cultuurcampus
+UTR-CM-660,Molenpolder thv Buurtcentrum,52.08488,5.011751,Tijdelijk,01/Sep/23,01/Mar/23,Gemeente Utrecht,,Openbare Orde & Veiligheid,nvt
+UTR-SB-119,Mostperenlaan 2,52.09076,5.00396,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Locaties Oude Stadswerken: Mostperenlaan
+UTR-SB-106,Teunisbloemlaan 48,52.09619,5.00218,Vast,,,Gemeente Utrecht,VgE,Bescherming eigendommen / personen,Multifuctionele Accommodaties / Buurtcentra: Weide Wereld
